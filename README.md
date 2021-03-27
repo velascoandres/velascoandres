@@ -19,7 +19,7 @@
 
 ### My Stats
 
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=velascoandres&theme=highcontrast&show_icons=true&count_private=true" /><img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=velascoandres&layout=compact" />
+<img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=velascoandres&theme=highcontrast&show_icons=true&count_private=true" /><img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=velascoandres&layout=compact&theme=highcontrast" />
 
 
 ### My Stack
