@@ -2,11 +2,10 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Andrés_Velasco-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Andres33033134)](https://twitter.com/Andres33033134) [![Linkedin Badge](https://img.shields.io/badge/-Andrés_Velasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)](https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)  
-[![Gmail Badge](https://img.shields.io/badge/-velasco.andrs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:velasco.andrs@gmail.com)](mailto:velasco.andrs@gmail.com) [![Website Badge](https://img.shields.io/badge/-AndresDev-c14438?style=flat-square&logo=Website&logoColor=white&link=https://velascoandres.github.io/portfolio/)](https://velascoandres.github.io/portfolio/)
+[![Twitter Badge](https://img.shields.io/badge/-Andres-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Andres33033134)](https://twitter.com/Andres33033134) [![Linkedin Badge](https://img.shields.io/badge/-Andrés_Velasco-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)](https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)  
+[![Gmail Badge](https://img.shields.io/badge/-velasco.andrs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:velasco.andrs@gmail.com)](mailto:velasco.andrs@gmail.com) [![Website Badge](https://img.shields.io/badge/-AndresDev-c14438?style=flatsquare&logo=Website&logoColor=white&link=https://velascoandres.github.io/portfolio/)](https://velascoandres.github.io/portfolio/)
 
-<br><br>
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 - 🔭 I’m currently working on someting cool.
