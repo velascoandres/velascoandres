@@ -1,11 +1,9 @@
 ### Hi there I'm Andrés Velasco 👋
 
-<a href="https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/">
-  <img align="left" alt="Andres's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/Andres33033134">
-  <img align="left" alt="Andres's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
+
+[![Twitter Badge](https://img.shields.io/badge/-Andrés_Velasco-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Andres33033134)](https://twitter.com/Andres33033134) [![Linkedin Badge](https://img.shields.io/badge/-Andrés_Velasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)](https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)  
+[![Gmail Badge](https://img.shields.io/badge/-velasco.andrs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:velasco.andrs@gmail.com)](mailto:velasco.andrs@gmail.com) [![Website Badge](https://img.shields.io/badge/-AndresDev-c14438?style=flat-square&logo=Website&logoColor=white&link=https://velascoandres.github.io/portfolio/)](https://velascoandres.github.io/portfolio/)
 
 <br><br>
 
