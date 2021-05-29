@@ -8,7 +8,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-- 🔭 I’m currently working on someting cool.
+- 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning: Flutter and ReactJS
 - 💬 Ask me about Typescript, NestJS or Angular.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)
