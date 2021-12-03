@@ -2,7 +2,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Andres-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Andres33033134)](https://twitter.com/Andres33033134) [![Linkedin Badge](https://img.shields.io/badge/-Andrés_Velasco-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)](https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)  
+ [![Linkedin Badge](https://img.shields.io/badge/-Andrés_Velasco-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)](https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)  
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
