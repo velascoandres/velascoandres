@@ -1,17 +1,11 @@
 ### Hi there I'm Andrés Velasco 👋
 
-
-
- [![Linkedin Badge](https://img.shields.io/badge/-Andrés_Velasco-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)](https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)  
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning: Flutter and ReactJS
-- 💬 Ask me about Typescript, NestJS or Angular.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/andr%C3%A9s-velasco-210303135/)
+- 💬 Ask me about Typescript, NestJS or React.
 
 ### My Stats
 
