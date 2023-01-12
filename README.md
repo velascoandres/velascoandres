@@ -7,11 +7,6 @@
 - 🌱 I’m currently learning: Flutter and ReactJS
 - 💬 Ask me about Typescript, NestJS or React.
 
-### My Stats
-
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=velascoandres&theme=highcontrast&show_icons=true&count_private=true" /><img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=velascoandres&layout=compact&theme=highcontrast" />
-
-
 ### My Stack
 <br>
 
@@ -23,13 +18,6 @@
 <code><img height="35rem" src="https://user-images.githubusercontent.com/12194462/112699306-8afcf800-8e59-11eb-9c78-5c553f1ac100.png"></code>
 <code><img height="35rem" src="https://user-images.githubusercontent.com/12194462/112699320-94866000-8e59-11eb-8797-ba75bab7f724.png"></code>
 <code><img height="35rem" src="https://user-images.githubusercontent.com/12194462/112699370-ab2cb700-8e59-11eb-87ef-96df9af0deff.png"></code>
-
-
-
-
-
-
-
 
 
 <br />
