@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning: Rust and Micro frontend architecture
+- 🌱 I’m currently learning: Rust and Micro frontend architecture.
 - 💬 Ask me about Typescript, NestJS or React.
 
 
